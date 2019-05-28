@@ -49,7 +49,7 @@
 25. Garrett Iannuzzi: WTF Webpack? And why do I care?
 26. CSS Styleguides
 27. David Gitlen --- Linters - what, why, how, types?
-28. Take your `git` foo to the next level
+28. Samantha Freeman: Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
 31.Lacy Rudd: An Introduction to SEO and It Why It Matters to Junior Developers. 
